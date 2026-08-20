@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>我的个人网站</title>
+</head>
+<body>
+    <h1>🚀 我的第一个网站上线了！</h1>
+    <p>这里是 Travaller-42-Af 的个人小站，正在建设中...</p>
+</body>
+</html>
